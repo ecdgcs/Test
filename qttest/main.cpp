@@ -7,4 +7,5 @@ int main(int argc, char *argv[])
 	qttest w;
 	w.show();
 	return a.exec();
+	//this is a test!
 }
